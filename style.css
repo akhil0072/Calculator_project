@@ -1,0 +1,29 @@
+.calculator_button {
+    background-color: #ada734;
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    gap: 3px;
+    padding: auto;
+   
+}
+.button_1 {background-color: #d6dde0;}
+.button_2 {background-color: #d6dde0;}
+.button_3 {background-color: #d6dde0;}
+.button_4 {background-color: #d6dde0;}
+.button_5 {background-color: #d6dde0;}
+.button_6 {background-color: #d6dde0;}
+.button_7 {background-color: #d6dde0;}
+.button_8 {background-color: #d6dde0;}
+.button_9 {background-color: #d6dde0;}
+.add {background-color: #d6dde0;}
+.sub {background-color: #d6dde0;}
+.div {background-color: #d6dde0;}
+.mutpli {background-color: #d6dde0;}
+.clear {background-color: #d6dde0;}
+.equal {background-color: #d6dde0;}
+
+.display {
+    background-color:white;
+    }
+
+
