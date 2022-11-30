@@ -11,6 +11,10 @@
         document.getElementById("myInput").value = "0";
     }
 
+    function inputBackspace(){
+	document.getElementById('myInput').value =document.getElementById('myInput').value.substring(0, document.getElementById('myInput').value.length-1);
+    }
+
     function check(){
         var algebraicString = document.getElementById('myInput').value;
         var result = [];
