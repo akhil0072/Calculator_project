@@ -1,8 +1,9 @@
 
     function display(a){
-        console.log(a);
+        console.log(a); 
         if(document.getElementById("myInput").value == '0'){
-            document.getElementById("myInput").value= "";
+            document.getElementById("myInput").value= "";   
+
         }
         document.getElementById("myInput").value+=a;
     }
